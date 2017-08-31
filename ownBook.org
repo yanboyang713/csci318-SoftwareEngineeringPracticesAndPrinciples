@@ -1,0 +1,6 @@
+* what is software engineering (SE)
+Software engineering (SE) is an intellectual activity and thus human-intensive
+– Requires engineering rather than manufacturing
+• Software is built to meet a certain functional goal and satisfy certain qualities
+• Software processes also must meet certain qualities
+• Software qualities are sometimes referred to as “ilities”
